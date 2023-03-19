@@ -1,0 +1,22 @@
+#margen {
+    width: 420px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+#numeros {
+    color: blue;
+}
+.primero{
+    background-color: #284fac;
+    color: white;
+}
+.contenido{
+    border-right: 1px solid #d6deeb;
+    width: 505px;
+    border-color:white;
+    height: 20px;
+}
+.titulos{
+    background-color: #c6d0e5;
+        color: #224baf;
+}
